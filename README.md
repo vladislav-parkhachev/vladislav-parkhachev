@@ -23,7 +23,7 @@
 ## EDUCATION
 
 ### "Ryazan State Radio Engineering University named after V.F. Utkin"     
-* #### Bachelor’s degree in Robotics and Mechatronics, (Autonomous Ground Vehicles), June 2023, GPA: 4.5 / 5
+* #### Bachelor’s degree in Robotics and Mechatronics, June 2023, GPA: 4.5 / 5
 
 ## PROJECTS
 
