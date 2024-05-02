@@ -20,8 +20,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-090909?style=for-the-badge&logo=ubuntu&logoColor=orange)
 ![CMake](https://img.shields.io/badge/CMake-090909?style=for-the-badge&logo=cmake&logoColor=green)
 ![Git](https://img.shields.io/badge/git-090909?style=for-the-badge&logo=git&logoColor=orange)
-![Docker](https://img.shields.io/badge/docker-090909?style=for-the-badge&logo=docker&logoColor=blue)
-![Kubernetes](https://img.shields.io/badge/kubernetes-090909?style=for-the-badge&logo=kubernetes&logoColor=blue)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-090909?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
 ![OpenCV](https://img.shields.io/badge/opencv-090909?style=for-the-badge&logo=opencv&logoColor=green)
 
