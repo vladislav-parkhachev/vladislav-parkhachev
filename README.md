@@ -4,9 +4,6 @@
  ## CONTACT
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/VladislavParckachev)
 [![LinkedIn](https://img.shields.io/badge/linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=blue)]()
-[![Twitter](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=231DA1F2)]()
-[![Discord](https://img.shields.io/badge/Discord-090909?style=for-the-badge&logo=discord&logoColor=235865F2)]()
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/vladislav_parkhachev)
 
 ## CAREER OBJECTIVE
 #### I'm robotics software engineer, specializing in the research and development of algorithms for planning, navigation, mapping, localization, SLAM. I am looking for an internship/job in the field of mobile robotics / autonomous driving. Main language: C++. I have experience working with ROS/ROS 2 and other software development tools (Git, Bash, CMake).
