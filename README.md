@@ -5,7 +5,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/VladislavParckachev)
 
 ## CAREER OBJECTIVE
-#### I'm robotics software engineer, specializing in the research and development of algorithms for planning, navigation, mapping, localization, SLAM. I am looking for an internship/job in the field of mobile robotics / autonomous driving. Main language: C++. I have experience working with ROS/ROS 2 and other software development tools (Git, Bash, CMake).
+#### I'm robotics software engineer. Main language: C++. I have experience working with ROS/ROS 2 and other software development tools (Git, Bash, CMake).
 
 ## SKILLS
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
