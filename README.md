@@ -25,7 +25,7 @@
 * #### Bachelor’s degree in Robotics and Mechatronics, June 2023, GPA: 4.5 / 5
 
 ### Profile views counter 👁️‍🗨️
-[![Vladislav Parkhachev profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/vladislav-parkhachev)
+[![Vladislav Parkhachev profile views](https://u8views.com/api/v1/github/profiles/121711583/views/day-week-month-total-count.svg)](https://u8views.com/github/vladislav-parkhachev)
 
 ## PROJECTS
 
