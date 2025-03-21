@@ -1,5 +1,5 @@
 
- <h2 align="center">👋 Hello! I'm Vlad.</h2>
+ <h2 align="center">👋 Hello! I'm Vladislav.</h2>
 
  ## CONTACT
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/VladislavParckachev)
@@ -23,6 +23,9 @@
 
 ### "Ryazan State Radio Engineering University named after V.F. Utkin"     
 * #### Bachelor’s degree in Robotics and Mechatronics, June 2023, GPA: 4.5 / 5
+
+### Profile views counter 👁️‍🗨️
+[![Vladislav Parkhachev profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/vladislav-parkhachev)
 
 ## PROJECTS
 
