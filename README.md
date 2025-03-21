@@ -22,7 +22,7 @@
 ## EDUCATION
 
 ### "Ryazan State Radio Engineering University named after V.F. Utkin"     
-* #### Bachelor’s degree in Robotics and Mechatronics, June 2023, GPA: 4.5 / 5
+#### Bachelor’s degree in Robotics and Mechatronics, June 2023, GPA: 4.5 / 5
 
 ## PROJECTS
 
@@ -39,4 +39,4 @@
  * #### [Development of an algorithm for estimating the location of a mobile robot based on iodometry data (C++ / ROS)]()
 
 ### Profile views counter 👁️‍🗨️
-[![Vladislav Parkhachev profile views](https://u8views.com/api/v1/github/profiles/121711583/views/day-week-month-total-count.svg)](https://u8views.com/github/vladislav-parkhachev
+[![Vladislav Parkhachev profile views](https://u8views.com/api/v1/github/profiles/121711583/views/day-week-month-total-count.svg)](https://u8views.com/github/vladislav-parkhachev)
