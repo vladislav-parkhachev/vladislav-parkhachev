@@ -1,8 +1,13 @@
 
- <h1 align="center"> Hi, I'm Vladislav <img align="middle" src="https://github.com/user-attachments/assets/0e71cd88-b0c1-49dc-ab50-de9b6adf41ce" width="40" /> 🤖</h1>
+ <h1 align="center"> Hi, I'm Vladislav 
+  <img align="top" src="https://github.com/user-attachments/assets/0e71cd88-b0c1-49dc-ab50-de9b6adf41ce" width="40" /> 
+  <img align="top" src="https://github.com/user-attachments/assets/b3872430-42db-48ee-b162-4aadda094796" width="40" />
+ </h1>
 
 
-<h3> <img src="https://github.com/user-attachments/assets/c6cc0fa0-2da1-4e64-9c69-dae29a2d6497" width="30" /> &nbsp;About Me </h3>
+<h3> 
+ <img align="bottom" src="https://github.com/user-attachments/assets/c6cc0fa0-2da1-4e64-9c69-dae29a2d6497" width="30" /> About Me 
+</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bb75760f-f889-409c-b20a-cd6c06dd5d21" width="200" />
@@ -11,6 +16,9 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8133f756-2346-406a-9e8c-aa92065d8989" width="200" />
 </p>
+
+
+
 
 ![robo-arm]()
 
