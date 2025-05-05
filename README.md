@@ -22,10 +22,10 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VladislavParckachev)
 
-## CAREER OBJECTIVE
-#### I'm robotics software engineer. Main language: C++. I have experience working with ROS/ROS 2 and other software development tools (Git, Bash, CMake).
+<h3> 
+ <img align="bottom" src="https://github.com/user-attachments/assets/468ecdb9-7039-4edf-a385-582c0a42d477" width="30" /> Skills 
+</h3>
 
-## SKILLS
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![Python](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![ROS](https://img.shields.io/badge/ros-090909?style=for-the-badge&logo=ros&logoColor=6296CC)
@@ -36,7 +36,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-090909?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
 ![OpenCV](https://img.shields.io/badge/opencv-090909?style=for-the-badge&logo=opencv&logoColor=green)
 
-## PROJECTS
+<h3> 
+ <img align="bottom" src="https://github.com/user-attachments/assets/2067859c-7480-4d57-957b-dd99e19b002f" width="50" /> Personal projects 
+</h3>
 
 #### 2023
  * #### [Development of a territory coverage planning algorithm for a mobile robot with differential wheel drive (C++/STL/ROS/Git)](https://github.com/vladislav-parkhachev/turtlebot3)
