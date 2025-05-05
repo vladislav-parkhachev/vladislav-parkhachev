@@ -23,7 +23,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VladislavParckachev)
 
 <h3> 
- <img align="bottom" src="https://github.com/user-attachments/assets/468ecdb9-7039-4edf-a385-582c0a42d477" width="30" /> Skills 
+ Skills 
 </h3>
 
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
@@ -36,15 +36,20 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-090909?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
 ![OpenCV](https://img.shields.io/badge/opencv-090909?style=for-the-badge&logo=opencv&logoColor=green)
 
-<h3> 
- <img align="bottom" src="https://github.com/user-attachments/assets/2067859c-7480-4d57-957b-dd99e19b002f" width="50" /> Personal projects 
+<h3>
+ Personal projects 
 </h3>
 
  * #### [Territory coverage planning algorithm for a mobile robot with differential wheel drive](https://github.com/vladislav-parkhachev/turtlebot3)
  * #### [An algorithm for high-speed passage of the maze](https://github.com/vladislav-parkhachev/mtsTrueTechChamp)
  * #### [An algorithm for estimating the location of a mobile robot based on wheel odometry data](https://github.com/vladislav-parkhachev/differential_drive_odometry_ros)
  * #### [Mapping module based on data from a 2D laser scanner](https://github.com/vladislav-parkhachev/mapping)
- * #### [ROS2 wrapper of the AprilTag 3 visual fiducial detector](https://github.com/vladislav-parkhachev/apriltag_ros2) 
+ * #### [ROS2 wrapper of the AprilTag 3 visual fiducial detector](https://github.com/vladislav-parkhachev/apriltag_ros2)
+ * #### [A gyro scooter-based robot for cargo transportation](https://github.com/f0d34/factomove)
+ * #### [Simulation of a robot with differential drive]()
+ * #### [4-Wheeled Mobile Robot in ROS and Gazebo](https://github.com/vladislav-parkhachev/robot_model_pkg)
+
+
 
 ### Profile views counter 👁️‍🗨️
 [![Vladislav Parkhachev profile views](https://u8views.com/api/v1/github/profiles/121711583/views/day-week-month-total-count.svg)](https://u8views.com/github/vladislav-parkhachev)
