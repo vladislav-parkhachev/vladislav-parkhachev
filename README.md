@@ -27,7 +27,6 @@
 
 ## SKILLS
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![C](https://img.shields.io/badge/c-090909?style=for-the-badge&logo=c&logoColor=6296CC)
 ![Python](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![ROS](https://img.shields.io/badge/ros-090909?style=for-the-badge&logo=ros&logoColor=6296CC)
 ![ROS](https://img.shields.io/badge/ros2-090909?style=for-the-badge&logo=ros&logoColor=6296CC)
@@ -36,11 +35,6 @@
 ![Git](https://img.shields.io/badge/git-090909?style=for-the-badge&logo=git&logoColor=orange)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-090909?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
 ![OpenCV](https://img.shields.io/badge/opencv-090909?style=for-the-badge&logo=opencv&logoColor=green)
-
-## EDUCATION
-
-### "Ryazan State Radio Engineering University named after V.F. Utkin"     
-#### Bachelor’s degree in Robotics and Mechatronics, June 2023, GPA: 4.5 / 5
 
 ## PROJECTS
 
