@@ -21,7 +21,6 @@
 </h3>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VladislavParckachev)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]()
 
 ## CAREER OBJECTIVE
 #### I'm robotics software engineer. Main language: C++. I have experience working with ROS/ROS 2 and other software development tools (Git, Bash, CMake).
