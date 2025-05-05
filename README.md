@@ -44,14 +44,7 @@
  * #### [An algorithm for high-speed passage of the maze](https://github.com/vladislav-parkhachev/mtsTrueTechChamp)
  * #### [An algorithm for estimating the location of a mobile robot based on wheel odometry data](https://github.com/vladislav-parkhachev/differential_drive_odometry_ros)
  * #### [Mapping module based on data from a 2D laser scanner](https://github.com/vladislav-parkhachev/mapping)
- * 
-   
- * #### [Development of a planning, localization and mapping system for the KUKA YouBot mobile robot (C++/ Python/ ROS/Git)]()
- * #### [Development of trajectory planning algorithm (C++ / ROS)]()
- * #### [Development of an algorithm for estimating the location of a mobile robot using a filter Kalman (C++ / ROS/ Eigen)]()
- * #### [Development of an algorithm for determining the location of a mobile device using the ICP algorithm (C++ / ROS / PCL)]()
- * #### [Development of a module for constructing the trajectory of a mobile robot based on data from a satellite navigation system (C++ / ROS)]()
- * #### [Development of an algorithm for detecting special points and identifying landmarks based on data from a laser scanner (C++ / ROS)]()
+ * #### [ROS2 wrapper of the AprilTag 3 visual fiducial detector](https://github.com/vladislav-parkhachev/apriltag_ros2) 
 
 ### Profile views counter 👁️‍🗨️
 [![Vladislav Parkhachev profile views](https://u8views.com/api/v1/github/profiles/121711583/views/day-week-month-total-count.svg)](https://u8views.com/github/vladislav-parkhachev)
