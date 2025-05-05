@@ -1,6 +1,6 @@
 <h1 align="center"> 
- Hi ther <img align="top" src="https://github.com/user-attachments/assets/0e71cd88-b0c1-49dc-ab50-de9b6adf41ce" width="40"/>, 
- I'm <a href="https://github.com/vladislav-parkhachev"> Vladislav </a>
+ Hi there <img align="top" src="https://github.com/user-attachments/assets/0e71cd88-b0c1-49dc-ab50-de9b6adf41ce" width="40"/>, 
+ I'm <a href="https://github.com/vladislav-parkhachev"> Vladislav</a>, a Robotics Engineer
  <img align="top" src="https://github.com/user-attachments/assets/b3872430-42db-48ee-b162-4aadda094796" width="40"/>
 </h1>
 
@@ -11,11 +11,17 @@
 <h5>
  <p> &ensp; &ensp; <img align="center" src="https://github.com/user-attachments/assets/1e4488a8-bfbc-4cb4-85fd-0099a2957a07" width="25" /> Bachelor’s degree in Robotics and Mechatronics at the Ryazan State Radio Engineering University </p>
  <p> &ensp; &ensp; <img align="center" src="https://github.com/user-attachments/assets/6b7ae4a3-5047-45ae-b7ac-1b2120b00a85" width="25" /> I taught Robotics </p>
- <p> &ensp; &ensp; <img align="center" src="https://github.com/user-attachments/assets/3f4e9e5b-4e62-4d97-9e56-5285f0b6e6fd" width="25" /> Interned at Sber Robotics </p>
+ <p> &ensp; &ensp; <img align="middle" src="https://github.com/user-attachments/assets/3f4e9e5b-4e62-4d97-9e56-5285f0b6e6fd" width="25" /> Interned at Sber Robotics </p>
+ <p> &ensp; &ensp; <img align="middle" src="https://github.com/user-attachments/assets/b3872430-42db-48ee-b162-4aadda094796" width="25" /> My hobby is to create robots and make them autonomous (control, navigation, localization, etc.) </p>
+ <p> &ensp; &ensp; <img align="middle" src="https://github.com/user-attachments/assets/881dd552-8d18-43d0-aaad-63deb766b7e1" width="25" /> Organizer of the robotics conference ROS Russian Meetup </p>
 </h5>
 
- ## CONTACT
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/VladislavParckachev)
+<h3> 
+ <img align="bottom" src="https://github.com/user-attachments/assets/1b937da2-5629-47da-92b1-368dffeb3e05" width="30" /> Contact 
+</h3>
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VladislavParckachev)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]()
 
 ## CAREER OBJECTIVE
 #### I'm robotics software engineer. Main language: C++. I have experience working with ROS/ROS 2 and other software development tools (Git, Bash, CMake).
