@@ -1,26 +1,16 @@
-
- <h1 align="center"> Hi, I'm Vladislav 
-  <img align="top" src="https://github.com/user-attachments/assets/0e71cd88-b0c1-49dc-ab50-de9b6adf41ce" width="40" /> 
-  <img align="top" src="https://github.com/user-attachments/assets/b3872430-42db-48ee-b162-4aadda094796" width="40" />
- </h1>
-
+<h1 align="center"> Hi, I'm Vladislav 
+ <img align="top" src="https://github.com/user-attachments/assets/0e71cd88-b0c1-49dc-ab50-de9b6adf41ce" width="40" /> 
+ <img align="top" src="https://github.com/user-attachments/assets/b3872430-42db-48ee-b162-4aadda094796" width="40" />
+</h1>
 
 <h3> 
  <img align="bottom" src="https://github.com/user-attachments/assets/c6cc0fa0-2da1-4e64-9c69-dae29a2d6497" width="30" /> About Me 
 </h3>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bb75760f-f889-409c-b20a-cd6c06dd5d21" width="200" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8133f756-2346-406a-9e8c-aa92065d8989" width="200" />
-</p>
-
-
-
-
-![robo-arm]()
+<h4>
+ &ensp; &ensp; <img align="top" src="https://github.com/user-attachments/assets/1e4488a8-bfbc-4cb4-85fd-0099a2957a07" width="20" /> Bachelor’s degree in Robotics and Mechatronics at the Ryazan State Radio Engineering University <br> <br>
+ &ensp; &ensp; <img align="top" src="https://github.com/user-attachments/assets/6b7ae4a3-5047-45ae-b7ac-1b2120b00a85" width="20" /> I taught Roboticsy <br> <br>
+</h4>
 
  ## CONTACT
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/VladislavParckachev)
